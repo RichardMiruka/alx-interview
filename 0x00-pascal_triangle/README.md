@@ -1,5 +1,7 @@
 # Pascal's Triangle
 
+![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/a40db968-c0db-4b2c-b0bb-e898431e1dd2)
+
 # Resources
 * [What is Pascal’s triangle](https://intranet.alxswe.com/rltoken/F458nFkW9StJum2zPI4khg)
 * [Pascal’s Triangle - Numberphile](https://intranet.alxswe.com/rltoken/XXMN2RVCCGcF5l5ZnUIv8Q)
