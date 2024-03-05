@@ -1,7 +1,9 @@
 # Pascal's Triangle
 
-![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/a40db968-c0db-4b2c-b0bb-e898431e1dd2)
 Pascal's Triangle is the triangular arrangement of numbers that gives the coefficients in the expansion of any binomial expression
+
+![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/a40db968-c0db-4b2c-b0bb-e898431e1dd2)
+
 
 # Resources
 * [What is Pascal’s triangle](https://intranet.alxswe.com/rltoken/F458nFkW9StJum2zPI4khg)
