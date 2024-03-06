@@ -1,5 +1,8 @@
 #To solve this problem, we can simulate the tournament rounds, 
 # keeping track of the players' progress and the round in which they get eliminated.
+# It iteratively plays rounds until there are only two players left, updating the rounds array accordingly.
+# The result is an array indicating the last round in which each player participates.
+# This solution assumes the input skills array is non-empty and contains at least two players.
 
 def solution(skills):
     n = len(skills)
