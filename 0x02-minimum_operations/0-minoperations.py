@@ -12,4 +12,4 @@ def minOperations(n): # 0-minoperations.py
             nOpe += minOpe # increment the operations counter by minOpe - number of operations needed for a single operation (copy & paste) - for each pair
             n /= minOpe # divide n by minOpe
         minOpe += 1 # increment minOpe by 1
-    return nOpe # return the operations counter - number of operations needed to result in exactly n H characters in this file.
+    return nOpe # return the operations counter - number of operations needed to result in exactly n H characters in this file- which will be equal to the number of pairs minus 1
