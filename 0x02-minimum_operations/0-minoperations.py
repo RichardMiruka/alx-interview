@@ -59,5 +59,3 @@ def minOperations(n):
     else:
         return 0
     
-# Testing the code 
-print(minOperations(10)) # 7    
