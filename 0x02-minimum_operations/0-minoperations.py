@@ -58,3 +58,6 @@ def minOperations(n):
         return counter
     else:
         return 0
+    
+# Testing the code 
+print(minOperations(10)) # 7    
