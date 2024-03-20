@@ -10,19 +10,19 @@ For this project, you will need to understand several key algorithmic and mathem
 * [Dynamic Programming (GeeksforGeeks)](https://intranet.alxswe.com/rltoken/l3JYgicNQw2Ue1Kg9jV80Q)
 
 ## 2. Prime Factorization:
+* Understanding how to perform prime factorization is crucial since the problem can be reduced to finding the sum of the prime factors of the target number n.
+* [Prime Factorization (Khan Academy)](https://intranet.alxswe.com/rltoken/cFcADpVYRCl5pdut-Lemmg)
 
-Understanding how to perform prime factorization is crucial since the problem can be reduced to finding the sum of the prime factors of the target number n.
-Prime Factorization (Khan Academy)
-Code Optimization:
+## 3. Code Optimization:
+* Knowing how to approach problems from an optimization perspective can be useful in finding the most efficient solution.
+* [How to optimize Python code](https://intranet.alxswe.com/rltoken/98ZF5bRckUKror6pGJQlHQ)
 
-Knowing how to approach problems from an optimization perspective can be useful in finding the most efficient solution.
-How to optimize Python code
-Greedy Algorithms:
+## 4. Greedy Algorithms:
+* The problem can also be approached with greedy algorithms, choosing the best option at each step.
+* [Greedy Algorithms (GeeksforGeeks)](https://intranet.alxswe.com/rltoken/k6-mba0b4nayJi0VqYhKjQ)
 
-The problem can also be approached with greedy algorithms, choosing the best option at each step.
-Greedy Algorithms (GeeksforGeeks)
-Basic Python Programming:
-
-Proficiency in Python, including loops, conditionals, and functions, is necessary to implement the solution.
-Python Functions (Python Official Documentation)
+## 5. Basic Python Programming:
+* Proficiency in Python, including loops, conditionals, and functions, is necessary to implement the solution.
+* [Python Functions (Python Official Documentation)](https://intranet.alxswe.com/rltoken/ao3SJVl4yY1SfugfVa3anw)
+  
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the “Minimum Operations” problem effectively, applying both mathematical reasoning and programming skills to find the most efficient solution.
