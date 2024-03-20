@@ -1,8 +1,7 @@
 # Minimum Operations
 > Algorithm
 > Python
-
-![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/359fc77a-948c-4070-8fa8-497c5005ece9)
+![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/1af812d5-acfa-4a99-b29b-626fac13174f)
 
 For this project, you will need to understand several key algorithmic and mathematical concepts to devise a solution that efficiently calculates the minimum number of operations to achieve a given number of characters using only “Copy All” and “Paste” operations. Here is a list of concepts and resources that will be helpful:
 
@@ -28,3 +27,5 @@ For this project, you will need to understand several key algorithmic and mathem
 * [Python Functions (Python Official Documentation)](https://intranet.alxswe.com/rltoken/ao3SJVl4yY1SfugfVa3anw)
   
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the “Minimum Operations” problem effectively, applying both mathematical reasoning and programming skills to find the most efficient solution.
+
+![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/359fc77a-948c-4070-8fa8-497c5005ece9)
