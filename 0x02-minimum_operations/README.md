@@ -2,6 +2,8 @@
 > Algorithm
 > Python
 
+![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/359fc77a-948c-4070-8fa8-497c5005ece9)
+
 For this project, you will need to understand several key algorithmic and mathematical concepts to devise a solution that efficiently calculates the minimum number of operations to achieve a given number of characters using only “Copy All” and “Paste” operations. Here is a list of concepts and resources that will be helpful:
 
 # Concepts Needed:
