@@ -3,6 +3,8 @@
 > Algorithm
 > Python
 
+![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/2d613371-1e35-47f7-890c-ba4f7b5f9421)
+
 For the “0. Island Perimeter” project, you will need to apply your knowledge of algorithms, data structures (specifically matrices or 2D lists), and iterative or conditional logic to solve a geometric problem within a grid context. The goal is to calculate the perimeter of a single island in a grid, where the grid is represented by a 2D array of integers. Understanding how to navigate and analyze 2D arrays and apply logical operations to determine the conditions for perimeter calculation is crucial for this task.
 
 ## Concepts Needed:
