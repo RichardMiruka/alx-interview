@@ -3,6 +3,8 @@
 > Algorithm
 > Python
 
+![image](https://github.com/RichardMiruka/alx-interview/assets/105627752/a83ba9d2-f003-4665-8dba-b3f72b267918)
+
 For this project, you will need to leverage your understanding of prime numbers, game theory, and algorithm optimization to solve a competitive game scenario. The challenge involves determining the winner of a game based on the strategic removal of prime numbers and their multiples from a set of consecutive integers.
 
 ## Concepts Needed:
