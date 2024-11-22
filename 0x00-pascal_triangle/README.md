@@ -106,5 +106,5 @@ chmod +x ./0-main.py
 ```
 
 ### :heavy_check_mark: Solution.
-> [:point_right: Go to 1-promise.js](1-promise.js)
+> [:point_right: Go to 0x00-pascal_triangle](https://github.com/RichardMiruka/alx-interview/blob/main/0x00-pascal_triangle/)
 
